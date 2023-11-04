@@ -42,7 +42,7 @@ Step 4 : Test for the XOR patterns.
 **PROGRAM :** 
 Developed by : Elamaran S E
 Ref no : 212222230036
-
+```
 import numpy as np
 import pandas as pd
 import io
@@ -112,7 +112,7 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-
+```
  **OUTPUT :** 
 ![276582559-96605099-d45d-4676-83c0-e5a955851224](https://github.com/elamarannn/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/113497531/41ef2279-264e-4cce-ac6e-617571d03698)
 
