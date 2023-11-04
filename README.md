@@ -40,9 +40,10 @@ Step 3: Repeat the  iteration  until the losses become constant and
 Step 4 : Test for the XOR patterns.
 
 **PROGRAM :** 
+```
 Developed by : Elamaran S E
 Ref no : 212222230036
-```
+
 import numpy as np
 import pandas as pd
 import io
